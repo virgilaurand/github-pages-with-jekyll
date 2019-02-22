@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my portfolio of projects
 
-I'm glad you are here. I plan to talk about ...
+Thanks for stopping by. This site is a sampling of various projects and solutions I've implemented. 
